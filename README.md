@@ -3,4 +3,6 @@
 
 > Natuknica
 
-* boldano *
+* prva tocka
+* druga tocka
+* treca tocka
