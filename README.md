@@ -1,2 +1,6 @@
 # raupjc-Hw0
-dfgfdvscavdsbntmzrjthrgs
+## manji naslov
+
+> Natuknica
+
+* boldano *
